@@ -26,10 +26,12 @@ window.onload = function() {
                 portfolioContainer.innerHTML += `
                 <div class="d iv jo kk" style="height: 482px; margin-bottom: 10px">
                 <div class="m">
-                  <div class="card-image">
-                    <a href="${item.siteUrl}"><img src="${item.imageUrl}" style="height: 482px"></a>
-                    <span class="card-title">${item.name}</span>
-                  </div>
+                <div class="overlay-container" style="height: 482px">
+                <img src="${item.imageUrl}" alt="Avatar" class="image">
+                <div class="overlay">
+                  <div class="text"> <a class="waves-effect waves-light btn-large" href="${item.siteUrl}">${item.name}</a></div>
+                </div>
+              </div>
                 </div>
               </div>
                 `
