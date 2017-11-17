@@ -44,7 +44,7 @@ window.onload = function() {
                 <div class="overlay-container" style="height: 482px">
                 <img src="${item.imageUrl}" alt="Avatar" class="image">
                 <div class="overlay">
-                  <div class="text"> <a class="waves-effect waves-light btn-large" href="${item.siteUrl}">${item.name}</a></div>
+                  <div class="text"> <a class="waves-effect waves-light btn-large" href="${item.siteUrl}" target="_blank">${item.name}</a></div>
                 </div>
               </div>
                 </div>
