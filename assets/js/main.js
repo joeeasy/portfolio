@@ -32,7 +32,7 @@ window.onload = function() {
              {name: "Ikonfess", siteUrl: "http://www.ikonfess.com/", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1510847768/screencapture-www-ikonfess-com-1510847735636_hfrya9.png"},
              
              {name: "UK pubmed", siteUrl: "http://ukpubmed.org", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1510847524/ukpubmed_lo1j9y.png"},
-             {name: "Academia Publishing", siteUrl: "http://academaipublishing.org", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1510848198/screencapture-academiapublishing-org-1510848151282_u1teed.png"}
+             
         ],
         loadPortfolio: function() {
             var portfolioContainer = document.querySelector('#portfolioContainer');
