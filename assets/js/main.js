@@ -18,10 +18,6 @@ window.onload = function() {
             document.body.appendChild(css);
         },
         portfolio: [
-            
-            
-            
-             {name: "Dust Hq", siteUrl: "http://dusthq.com", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1510847819/screencapture-www-dusthq-com-1510847801762_sglvjk.png"},
              
              {name: "AJE",siteUrl: "https://joeeasy.github.io/aje/index.html", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1510847906/screencapture-joeeasy-github-io-aje-index-html-1510847847079_lpawda.png"},
              
@@ -36,7 +32,7 @@ window.onload = function() {
         ],
         loadPortfolio: function() {
             var portfolioContainer = document.querySelector('#portfolioContainer');
-            console.log(portfolioContainer)
+            // console.log(portfolioContainer)
             app.portfolio.forEach(function(item) {
                 portfolioContainer.innerHTML += `
                 <div class="d iv jo kk" style="height: 482px; margin-bottom: 10px">
