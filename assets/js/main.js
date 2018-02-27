@@ -18,6 +18,7 @@ window.onload = function() {
             document.body.appendChild(css);
         },
         portfolio: [
+            {name: "Prime Agrolytics",siteUrl: "http://www.primeagrolytics.com/login", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1519746528/orimeagrolytics_hvjzps.png"},
              {name: "Cards For Humanity", siteUrl: "https://cfh.io", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1519745242/screencapture-cfh-io-1519745125999_taa2tk.png"},
              {name: "AJE",siteUrl: "https://joeeasy.github.io/aje/index.html", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1510847906/screencapture-joeeasy-github-io-aje-index-html-1510847847079_lpawda.png"},
              
