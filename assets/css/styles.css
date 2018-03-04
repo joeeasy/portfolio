@@ -43,12 +43,11 @@
     background-color: #000 !important;
     color: #fff !important;
     display: none;
-    font-family: -apple-system, &#39;
-    Helvetica Neue&#39;
-    ,
+    font-family: -apple-system;
+    Helvetica Neue;
     sans-serif !important;
     min-width: 150px !important;
-    white-space: nowrap !important
+    white-space: nowrap !important;
 }
 
 .additional-checkout-button--apple-pay:hover,
