@@ -18,7 +18,7 @@ window.onload = function() {
             document.body.appendChild(css);
         },
         portfolio: [
-            {name: "Teleworld Group", siteUrl: "teleworldgroup.com", imageUrl:  "http://res.cloudinary.com/dsxfchez8/image/upload/v1520163642/teleworldgroup_gly1dp.png"},
+            {name: "Teleworld Group", siteUrl: "teleworldgroup.com", imageUrl:  "http://res.cloudinary.com/dsxfchez8/image/upload/v1520237783/teleworld_utua1m.png"},
             {name: "Lokal Broda", siteUrl: "lokalbroda.com", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1520163929/lokalbroda_uqmhp2.png" },
             {name: "Keresuk Rice", siteUrl: "46.101.31.229", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1520163933/keresuk-ricepng_oxfves.png"},
             {name: "Temitope Atte", siteUrl: "temitopeatte.org", imageUrl: 'http://res.cloudinary.com/dsxfchez8/image/upload/v1520163637/temitope-atte_gekpsg.png'},            
