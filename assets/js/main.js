@@ -18,10 +18,10 @@ window.onload = function() {
             document.body.appendChild(css);
         },
         portfolio: [
-            {name: "Teleworld Group", siteUrl: "teleworldgroup.com", imageUrl:  "http://res.cloudinary.com/dsxfchez8/image/upload/v1520237783/teleworld_utua1m.png"},
-            {name: "Lokal Broda", siteUrl: "lokalbroda.com", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1520163929/lokalbroda_uqmhp2.png" },
-            {name: "Keresuk Rice", siteUrl: "46.101.31.229", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1520163933/keresuk-ricepng_oxfves.png"},
-            {name: "Temitope Atte", siteUrl: "temitopeatte.org", imageUrl: 'http://res.cloudinary.com/dsxfchez8/image/upload/v1520163637/temitope-atte_gekpsg.png'},            
+            {name: "Teleworld Group", siteUrl: "http://teleworldgroup.com", imageUrl:  "http://res.cloudinary.com/dsxfchez8/image/upload/v1520237783/teleworld_utua1m.png"},
+            {name: "Lokal Broda", siteUrl: "http://lokalbroda.com", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1520163929/lokalbroda_uqmhp2.png" },
+            {name: "Keresuk Rice", siteUrl: "http://46.101.31.229", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1520163933/keresuk-ricepng_oxfves.png"},
+            {name: "Temitope Atte", siteUrl: "http://temitopeatte.org", imageUrl: 'http://res.cloudinary.com/dsxfchez8/image/upload/v1520163637/temitope-atte_gekpsg.png'},            
             {name: "Prime Agrolytics",siteUrl: "http://www.primeagrolytics.com/login", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1519746528/orimeagrolytics_hvjzps.png"},
             {name: "Cards For Humanity", siteUrl: "https://cfh.io", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1519745242/screencapture-cfh-io-1519745125999_taa2tk.png"},
             {name: "AJE",siteUrl: "https://joeeasy.github.io/aje/index.html", imageUrl: "http://res.cloudinary.com/dsxfchez8/image/upload/v1510847906/screencapture-joeeasy-github-io-aje-index-html-1510847847079_lpawda.png"},
